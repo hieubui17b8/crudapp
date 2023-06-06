@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Hiếu",
+      "lastName": "Bùi",
+      "email": "hieubui17thtb@gmail.com",
+      "dob": "1999-08-19T17:00:00.000Z",
+      "gender": "male",
+      "education": "Post Grades",
+      "company": "None",
+      "experience": 0,
+      "package": 3000,
+      "id": 1
+    },
+    {
+      "firstName": "Thien",
+      "lastName": "Dao",
+      "email": "thanhthiendao@gmail.com",
+      "dob": "2002-06-08T17:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Ford",
+      "experience": 1,
+      "package": 5000,
+      "id": 2
+    },
+    {
+      "firstName": "ad",
+      "lastName": "ad",
+      "email": "ad",
+      "dob": "2023-05-20T17:00:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "ad",
+      "experience": 5,
+      "package": 9,
+      "id": 3
+    }
+  ]
+}
